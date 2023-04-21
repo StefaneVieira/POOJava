@@ -1,6 +1,6 @@
 package models;
 
-import banco.interfaces.Tributavel;
+import interfaces.Tributavel;
 
 public class SeguroDeVida implements Tributavel {
 
